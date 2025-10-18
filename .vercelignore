@@ -1,0 +1,5 @@
+dinesh/
+node_modules/
+.git/
+*.pyc
+db.sqlite3
